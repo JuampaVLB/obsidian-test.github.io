@@ -1,9 +1,0 @@
-
-
-| ID                                                                         | Tipo   | Archivo Origen                                                                | Modulo Funcional              | Base de Datos                 | Tablas Afectadas | Joins | Objetivo                                                                                 | Impacto | Observacion |
-| -------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ---------------- | ----- | ---------------------------------------------------------------------------------------- | ------- | ----------- |
-| [[CRM Novedades/Archivos/PHP/Archivos Normales/index.php/Consultas/SELECT/Q001\|Q001]] | SELECT | [[CRM Novedades/Archivos/PHP/Archivos Normales/index.php/Consultas/Consultas\|index.php]] | Login / Selección de vendedor | dinamica ej: gyssrl_novedades | vendedores       | -     | Listar vendedores activos (no dados de baja) y que no sean usuarios técnicos ni el ID 36 | Lectura |             |
-|                                                                            |        |                                                                               |                               |                               |                  |       |                                                                                          |         |             |
-
-
-[[CRM Novedades/Archivos/PHP/Archivos Normales/index.php/Consultas/Consultas|Consultas]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/cron_crossselling_autogestion.php.md",
+                "file": "Docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cron_crossselling_autogestion.php"
+              "title": "index"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/cron_crossselling_autogestion.php.md",
+                "file": "Docs/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cron_crossselling_autogestion.php"
+              "title": "Graph of index"
             }
           }
         ]
@@ -214,41 +214,41 @@
   },
   "active": "4f004259b7165017",
   "lastOpenFiles": [
-    "CRM Novedades/Archivos/PHP/Crons/Crons.md",
-    "CRM Novedades/Archivos/PHP/PHP.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/Archivos Normales.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/ranking.php/ranking.php.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_amo_cuarto_mes.php/cron_amo_cuarto_mes.php.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/Consultas.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/SELECT/SELECT.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/SELECT.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/SELECT.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q001.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q002.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q004.md",
+    "Docs/CRM Novedades/CRM Novedades.md",
+    "Docs/index.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_autogestion.php/cron_crossselling_autogestion.php.md",
     "database.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q071.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/cron_baja_gestiones_caducadas.php.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/SELECT.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/Q001.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/login.php/login.php.md",
-    "CRM Novedades/CRM Novedades.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/SELECT/SELECT.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q010.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q001.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q072.md",
+    "Docs",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/Crons.md",
+    "Docs/CRM Novedades/Archivos/PHP/PHP.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/Archivos Normales.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/ranking.php/ranking.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_amo_cuarto_mes.php/cron_amo_cuarto_mes.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/Consultas.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q002.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/SELECT/Q004.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q071.md",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_baja_gestiones_caducadas.php/cron_baja_gestiones_caducadas.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/login.php/login.php.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/SELECT/SELECT.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q010.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q001.md",
+    "Docs/CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q072.md",
     "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q074.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q073.md",
-    "CRM Novedades/Archivos/PHP/Archivos Normales/objetivos.php/Consultas/SELECT/Q070.md",
-    "CRM Novedades/Archivos/PHP/Crons/cron_tickets_cola_envio.php/Consultas/UPDATE",
-    "CRM Novedades/Archivos/PHP/Crons/cron_tickets_anulacion.php/Consultas/INSERT",
-    "CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/UPDATE",
-    "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist.php/Consultas/UPDATE",
-    "CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist_ant.php/Consultas/UPDATE",
-    "CRM Novedades/Archivos/Javascript/index.js/Consultas",
-    "CRM Novedades/Archivos/Javascript/index.js",
-    "CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/SELECT",
-    "CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/INSERT",
-    "CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas"
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_tickets_cola_envio.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_tickets_anulacion.php/Consultas/INSERT",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_reasig_de_datos_sin_actualizar.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_crossselling_redist_ant.php/Consultas/UPDATE",
+    "Docs/CRM Novedades/Archivos/Javascript/index.js/Consultas",
+    "Docs/CRM Novedades/Archivos/Javascript/index.js",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/SELECT",
+    "Docs/CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/Consultas/INSERT"
   ]
 }
