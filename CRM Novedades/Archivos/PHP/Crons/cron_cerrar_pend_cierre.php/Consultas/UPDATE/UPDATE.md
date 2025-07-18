@@ -1,0 +1,6 @@
+
+| ID<br>                                                                                       | Tipo   | Archivo Origen                                                                                                    | Modulo Funcional | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                                          | Impacto   | Observacion |
+| -------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ----------------------------------------------------------------- | --------- | ----------- |
+| [[CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/UPDATE/Q001\|Q001]] | UPDATE | [[CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/Consultas\|cron_cerrar_pend_cierre.php]] | Baja automática  | gyssrl_novedades | sw_operaciones   | -     | Baja las operaciones caducadas cambiando estado a 1 y motivo a 39 | Escritura |             |
+
+[[CRM Novedades/Archivos/PHP/Crons/cron_cerrar_pend_cierre.php/Consultas/Consultas|Consultas]]

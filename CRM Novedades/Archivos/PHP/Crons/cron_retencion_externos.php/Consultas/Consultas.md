@@ -1,0 +1,1 @@
+[[CRM Novedades/Archivos/PHP/Crons/cron_retencion_externos.php/cron_retencion_externos.php]]

@@ -1,0 +1,7 @@
+| ID                                                                                            | Tipo   | Archivo Origen                                                                                          | Modulo Funcional | Base de Datos    | Tablas Afectadas | Joins | Objetivo                                          | Impacto   | Observacion |
+| --------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------------------------------------------- | --------- | ----------- |
+| [[CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/UPDATE/Q001\|Q001]] | UPDATE | [[CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/Consultas\|sendFieldsMl.php]] | MailerLite Sync  | gyssrl_novedades | sw_operaciones   | -     | Marcar como enviado a MailerLite (mailerlite = 1) | Escritura | DUPLICADA   |
+| [[CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/UPDATE/Q002\|Q002]] | UPDATE | [[CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/Consultas\|sendFieldsMl.php]] | MailerLite Sync  | gyssrl_novedades | sw_operaciones   | -     | Marcar como enviado a MailerLite (mailerlite = 1) | Escritura | DUPLICADA   |
+
+
+[[CRM Novedades/Archivos/PHP/Archivos Normales/sendFieldsMl.php/Consultas/Consultas|Consultas]]
